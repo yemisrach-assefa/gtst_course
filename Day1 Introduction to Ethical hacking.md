@@ -8,10 +8,11 @@ There are 3 types of hackers
 1. blackhat hacker: the bad guys
 2. whitehat hacker:the good ones(Ethical ones)
 3. greyhat hacker: middle ground between the two
+
 The 3 core things of hacking is CIA
-# confidentaility: data is confidential to all execpt to the authorized user
-# Integrity:the data should be remain identical always
-# Availablity:The data always should be there when ever we want to find it
+* confidentaility: data is confidential to all execpt to the authorized user
+* Integrity:the data should be remain identical always
+* Availablity:The data always should be there when ever we want to find it
 
 ## pentration testing
 * Is also known as pen testing
